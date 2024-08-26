@@ -19,6 +19,7 @@ Welcome to my magical corner of GitHub! My name is Mahadullah Shaikh, and I am a
 - <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=nodejs" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **Node.js**: Master of conjuring powerful server-side applications.
 - <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=express" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **Express**: Skilled in creating magical and efficient APIs.
 - <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=mongodb" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **MongoDB**: Keeper of data with NoSQL sorcery.
+- <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=typescript" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **Typescript**: Enchanting JavaScript with static typing and powerful spells.
 - <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=postman" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **Postman**: Testing APIs with the precision of a Seeker.
 
 ### **🔮 Enchanted Artifacts:**
