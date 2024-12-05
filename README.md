@@ -2,7 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+Muggle!;+Greetings+from+Platform+9¾+👋;" />
 </h1>
 
-Welcome to my magical corner of GitHub! My name is Mahadullah Shaikh, and I am a [certified wizard](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=eKZ1ifJBLk6r021xxl4FVjaiQQFNt7b4QVuhHX1mnUM=) and a tech enthusiast with a degree in Computer Science. I specialize in Node.js, MongoDB, and the dark arts of cybersecurity.
+
+
+Welcome to my magical corner of GitHub! My name is Mahadullah Shaikh, and I am a <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=eKZ1ifJBLk6r021xxl4FVjaiQQFNt7b4QVuhHX1mnUM=" target="_blank">certified wizard</a> and a tech enthusiast with a degree in Computer Science. I specialize in Node.js, MongoDB, and the dark arts of cybersecurity.
+
+
 
 ---
 
