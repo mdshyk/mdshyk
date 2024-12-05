@@ -2,20 +2,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+Muggle!;+Greetings+from+Platform+9¾+👋;" />
 </h1>
 
-
-
-Welcome to my magical corner of GitHub! My name is Mahadullah Shaikh, and I am a <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=eKZ1ifJBLk6r021xxl4FVjaiQQFNt7b4QVuhHX1mnUM=" target="_blank">certified wizard</a> and a tech enthusiast with a degree in Computer Science. I specialize in Node.js, MongoDB, and the dark arts of cybersecurity.
-
-
+Welcome to my magical corner of GitHub! My name is Mahadullah Shaikh, and I am a [certified wizard](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=eKZ1ifJBLk6r021xxl4FVjaiQQFNt7b4QVuhHX1mnUM=) and a tech enthusiast with a degree in Computer Science. I specialize in conjuring server-side applications with **Node.js**, weaving APIs with **Express**, guarding data with **MongoDB**, and accelerating performance with **Redis**. I also dabble in the dark arts of **cybersecurity**, and enchant JavaScript with the power of **TypeScript**.
 
 ---
 
 ## 🧙‍♂️ **About Me**
 
-- 🪄 **House**: Gryffindor
-- 🪄 **Patronus**: Nebelung Cat
-- 🪄 **Wand**: Ebony wood with a phoenix core 12 ½" and unbending flexibility
-- 🪄 **Favorite Spell**: `Expecto Patronum!`
+- **House**: Gryffindor 🦁
+- **Patronus**: Nebelung Cat 🐱
+- **Wand**: Ebony wood with a phoenix core 12 ½" and unbending flexibility 🌲
+- **Favorite Spell**: `Expecto Patronum!` ✨
 
 ## **Skills in the Wizarding World:**
 
@@ -25,6 +21,7 @@ Welcome to my magical corner of GitHub! My name is Mahadullah Shaikh, and I am a
 - <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=mongodb" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **MongoDB**: Keeper of data with NoSQL sorcery.
 - <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=typescript" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **Typescript**: Enchanting JavaScript with static typing and powerful spells.
 - <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=postman" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **Postman**: Testing APIs with the precision of a Seeker.
+- <span style="display: inline-flex; align-items: center;"><img src="https://skillicons.dev/icons?i=redis" style="width: 20px; height: 20px; margin-right: 8px;" /></span> **Redis**: Master of in-memory data structures and lightning-fast caching.
 
 ### **🔮 Enchanted Artifacts:**
 - **Cybersecurity**: Warding off dark magic and protecting the digital realm.
